@@ -9,8 +9,15 @@ background-color: rgb(0, 0, 0);
 color: #ffffff;
 display: flex;
 justify-content: space-around;
+align-items: center;
+padding: 24px;
+
 }
 
 .cabecalho-imagem{
-    width: 7%;
+    width: 30%;
+}
+.cabecalho-div{
+display: flex;
+
 }
