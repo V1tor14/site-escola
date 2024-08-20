@@ -8,10 +8,7 @@
     background-color: rgb(0, 0, 0);
     color: #ffffff;
     display: flex;
-    justify-content: space-around;
-    align-items: center;
     padding: 24px;
-
 }
 
 .cabecalho-imagem {
@@ -25,13 +22,14 @@
 
 .section1 {
     background-color: brown;
-    padding: 300px;
+    padding: 2%;
 }
 
 .section2 {
     background-color: blue;
-    padding: 300px;
+    padding: 100%;
 }
-.cabecalho-imagem{
+
+.cabecalho-imagem {
     width: 50%;
 }
