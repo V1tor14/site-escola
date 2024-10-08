@@ -9,23 +9,31 @@
     color: azure;
     display: flex;
     padding: 24px 0;
+    justify-content: space-around;
 }
 
 .section1 {
     background-image: linear-gradient(gray,rgb(65, 65, 65));
     padding: 100px;
     font-size: 20px;
+    display: flex;
+    justify-content: left;
 }
 
 .section2 {
     background-image: linear-gradient(rgb(65, 65, 65),black);
     padding: 100px;
+    font-size: 50px;
 }
 .cabecalho-imagem{
-    width: 50%;
+    width: 45%;
 }
 
 .rodape{
     background-color: black;
     color: rgb(255, 255, 255);
+}
+
+.imgcafe{
+    padding-right: 100px;
 }
